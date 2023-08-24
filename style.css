@@ -205,6 +205,9 @@ section {
   margin-top: 1rem;
   gap: 1rem;
 }
+.dp{
+  border-radius: 111rem;
+}
 
 /* ICONS */
 
@@ -284,7 +287,10 @@ section {
 }
 
 .about-pic {
-  border-radius: 2rem;
+  /* border-radius: 2rem; */
+  margin-top: 45px;
+  /* border: 2px solid red; */
+  margin-bottom: 40px;
 }
 
 .arrow {
@@ -345,7 +351,7 @@ section {
 article {
   display: flex;
   width: 10rem;
-  justify-content: space-around;
+  /* justify-content: ; */
   gap: 0.5rem;
 }
 
